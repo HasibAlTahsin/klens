@@ -1,0 +1,9 @@
+venv/
+models/*.gguf
+llama.cpp/
+*.jsonl
+overhead_*.json
+accuracy_results.json
+accuracy_both.json
+__pycache__/
+*.pyc
