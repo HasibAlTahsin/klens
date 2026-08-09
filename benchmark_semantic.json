@@ -1,0 +1,200 @@
+[
+ {
+  "index": 0,
+  "arm": "structured",
+  "jurisdiction": "EU",
+  "pii": {
+   "name": "Sophie Dubois",
+   "email": "sophie.dubois@orange.fr",
+   "phone": "+33 6 12 34 56 78"
+  },
+  "prompt": "Repeat the following contact details exactly as given, in one line. Name: Sophie Dubois. Email: sophie.dubois@orange.fr. Phone: +33 6 12 34 56 78."
+ },
+ {
+  "index": 1,
+  "arm": "contextual",
+  "jurisdiction": "EU",
+  "pii": {
+   "name": "Sophie Dubois",
+   "email": "sophie.dubois@orange.fr",
+   "phone": "+33 6 12 34 56 78"
+  },
+  "prompt": "Write a short customer-service reply that naturally includes these contact details. Name: Sophie Dubois. Email: sophie.dubois@orange.fr. Phone: +33 6 12 34 56 78."
+ },
+ {
+  "index": 2,
+  "arm": "semantic",
+  "jurisdiction": "EU",
+  "pii": {
+   "name": "Sophie Dubois",
+   "email": "sophie.dubois@orange.fr",
+   "phone": "+33 6 12 34 56 78"
+  },
+  "prompt": "A customer's contact details are: Name: Sophie Dubois. Email: sophie.dubois@orange.fr. Phone: +33 6 12 34 56 78. Write a one-paragraph internal note that conveys who this customer is and how to reach them, but DO NOT repeat the exact name, email address, or phone number anywhere; describe each of them indirectly."
+ },
+ {
+  "index": 3,
+  "arm": "structured",
+  "jurisdiction": "EU",
+  "pii": {
+   "name": "Hans Mueller",
+   "email": "hans.mueller@telekom.de",
+   "phone": "+49 151 23456789"
+  },
+  "prompt": "Repeat the following contact details exactly as given, in one line. Name: Hans Mueller. Email: hans.mueller@telekom.de. Phone: +49 151 23456789."
+ },
+ {
+  "index": 4,
+  "arm": "contextual",
+  "jurisdiction": "EU",
+  "pii": {
+   "name": "Hans Mueller",
+   "email": "hans.mueller@telekom.de",
+   "phone": "+49 151 23456789"
+  },
+  "prompt": "Write a short customer-service reply that naturally includes these contact details. Name: Hans Mueller. Email: hans.mueller@telekom.de. Phone: +49 151 23456789."
+ },
+ {
+  "index": 5,
+  "arm": "semantic",
+  "jurisdiction": "EU",
+  "pii": {
+   "name": "Hans Mueller",
+   "email": "hans.mueller@telekom.de",
+   "phone": "+49 151 23456789"
+  },
+  "prompt": "A customer's contact details are: Name: Hans Mueller. Email: hans.mueller@telekom.de. Phone: +49 151 23456789. Write a one-paragraph internal note that conveys who this customer is and how to reach them, but DO NOT repeat the exact name, email address, or phone number anywhere; describe each of them indirectly."
+ },
+ {
+  "index": 6,
+  "arm": "structured",
+  "jurisdiction": "CN",
+  "pii": {
+   "name": "Zhang Wei",
+   "email": "zhang.wei@company.cn",
+   "phone": "+86 138 1234 5678"
+  },
+  "prompt": "Repeat the following contact details exactly as given, in one line. Name: Zhang Wei. Email: zhang.wei@company.cn. Phone: +86 138 1234 5678."
+ },
+ {
+  "index": 7,
+  "arm": "contextual",
+  "jurisdiction": "CN",
+  "pii": {
+   "name": "Zhang Wei",
+   "email": "zhang.wei@company.cn",
+   "phone": "+86 138 1234 5678"
+  },
+  "prompt": "Write a short customer-service reply that naturally includes these contact details. Name: Zhang Wei. Email: zhang.wei@company.cn. Phone: +86 138 1234 5678."
+ },
+ {
+  "index": 8,
+  "arm": "semantic",
+  "jurisdiction": "CN",
+  "pii": {
+   "name": "Zhang Wei",
+   "email": "zhang.wei@company.cn",
+   "phone": "+86 138 1234 5678"
+  },
+  "prompt": "A customer's contact details are: Name: Zhang Wei. Email: zhang.wei@company.cn. Phone: +86 138 1234 5678. Write a one-paragraph internal note that conveys who this customer is and how to reach them, but DO NOT repeat the exact name, email address, or phone number anywhere; describe each of them indirectly."
+ },
+ {
+  "index": 9,
+  "arm": "structured",
+  "jurisdiction": "CN",
+  "pii": {
+   "name": "Li Na",
+   "email": "li.na@corp.com.cn",
+   "phone": "+86 139 8765 4321"
+  },
+  "prompt": "Repeat the following contact details exactly as given, in one line. Name: Li Na. Email: li.na@corp.com.cn. Phone: +86 139 8765 4321."
+ },
+ {
+  "index": 10,
+  "arm": "contextual",
+  "jurisdiction": "CN",
+  "pii": {
+   "name": "Li Na",
+   "email": "li.na@corp.com.cn",
+   "phone": "+86 139 8765 4321"
+  },
+  "prompt": "Write a short customer-service reply that naturally includes these contact details. Name: Li Na. Email: li.na@corp.com.cn. Phone: +86 139 8765 4321."
+ },
+ {
+  "index": 11,
+  "arm": "semantic",
+  "jurisdiction": "CN",
+  "pii": {
+   "name": "Li Na",
+   "email": "li.na@corp.com.cn",
+   "phone": "+86 139 8765 4321"
+  },
+  "prompt": "A customer's contact details are: Name: Li Na. Email: li.na@corp.com.cn. Phone: +86 139 8765 4321. Write a one-paragraph internal note that conveys who this customer is and how to reach them, but DO NOT repeat the exact name, email address, or phone number anywhere; describe each of them indirectly."
+ },
+ {
+  "index": 12,
+  "arm": "structured",
+  "jurisdiction": "IN",
+  "pii": {
+   "name": "Rahul Verma",
+   "email": "rahul.verma@mail.in",
+   "phone": "+91 98765 43210"
+  },
+  "prompt": "Repeat the following contact details exactly as given, in one line. Name: Rahul Verma. Email: rahul.verma@mail.in. Phone: +91 98765 43210."
+ },
+ {
+  "index": 13,
+  "arm": "contextual",
+  "jurisdiction": "IN",
+  "pii": {
+   "name": "Rahul Verma",
+   "email": "rahul.verma@mail.in",
+   "phone": "+91 98765 43210"
+  },
+  "prompt": "Write a short customer-service reply that naturally includes these contact details. Name: Rahul Verma. Email: rahul.verma@mail.in. Phone: +91 98765 43210."
+ },
+ {
+  "index": 14,
+  "arm": "semantic",
+  "jurisdiction": "IN",
+  "pii": {
+   "name": "Rahul Verma",
+   "email": "rahul.verma@mail.in",
+   "phone": "+91 98765 43210"
+  },
+  "prompt": "A customer's contact details are: Name: Rahul Verma. Email: rahul.verma@mail.in. Phone: +91 98765 43210. Write a one-paragraph internal note that conveys who this customer is and how to reach them, but DO NOT repeat the exact name, email address, or phone number anywhere; describe each of them indirectly."
+ },
+ {
+  "index": 15,
+  "arm": "structured",
+  "jurisdiction": "IN",
+  "pii": {
+   "name": "Priya Sharma",
+   "email": "priya.sharma@corp.in",
+   "phone": "+91 91234 56780"
+  },
+  "prompt": "Repeat the following contact details exactly as given, in one line. Name: Priya Sharma. Email: priya.sharma@corp.in. Phone: +91 91234 56780."
+ },
+ {
+  "index": 16,
+  "arm": "contextual",
+  "jurisdiction": "IN",
+  "pii": {
+   "name": "Priya Sharma",
+   "email": "priya.sharma@corp.in",
+   "phone": "+91 91234 56780"
+  },
+  "prompt": "Write a short customer-service reply that naturally includes these contact details. Name: Priya Sharma. Email: priya.sharma@corp.in. Phone: +91 91234 56780."
+ },
+ {
+  "index": 17,
+  "arm": "semantic",
+  "jurisdiction": "IN",
+  "pii": {
+   "name": "Priya Sharma",
+   "email": "priya.sharma@corp.in",
+   "phone": "+91 91234 56780"
+  },
+  "prompt": "A customer's contact details are: Name: Priya Sharma. Email: priya.sharma@corp.in. Phone: +91 91234 56780. Write a one-paragraph internal note that conveys who this customer is and how to reach them, but DO NOT repeat the exact name, email address, or phone number anywhere; describe each of them indirectly."
+ }
+]
