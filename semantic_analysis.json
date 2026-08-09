@@ -1,1 +1,1 @@
-{
+{"('structured', 'full')": {"E": 88, "P": 88, "N": 90}, "('structured', 'trunc256')": {"E": 87, "P": 88, "N": 90}, "('structured', 'verbatim')": {"N": 30, "V": 30}, "('contextual', 'full')": {"E": 83, "P": 84, "N": 90}, "('contextual', 'trunc256')": {"E": 42, "P": 42, "N": 90}, "('contextual', 'verbatim')": {"N": 30, "V": 30}, "('semantic', 'full')": {"E": 0, "P": 0, "N": 90}, "('semantic', 'trunc256')": {"E": 0, "P": 0, "N": 90}, "('semantic', 'verbatim')": {"N": 30, "V": 0}}

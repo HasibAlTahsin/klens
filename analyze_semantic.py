@@ -36,4 +36,4 @@ for arm in ["structured","contextual","semantic"]:
 for arm in ["structured","contextual","semantic"]:
     s=stats.get((arm,"verbatim"),{"N":0,"V":0})
     print(f"{arm:<10} verbatim-rate: {s['V']}/{s['N']}")
-json.dump(stats,open("semantic_analysis.json","w"))
+json.dump({str(k):v for k,v in stats.items()},open("semantic_analysis.json","w"))
