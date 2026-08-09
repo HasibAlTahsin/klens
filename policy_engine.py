@@ -20,14 +20,14 @@ OBLIGATION_MAP = {
                'GDPR Art.33 --- notify supervisory authority within 72h',
                'GDPR Art.34 --- notify data subject if high risk'],
         'CN': ['PIPL Art.51 --- failure of security obligation',
-               'PIPL Art.55 --- notify regulator (CAC) immediately'],
+               'PIPL Art.57 --- notify regulator (CAC) immediately'],
         'IN': ['DPDP s.8(6) --- notify Data Protection Board of breach'],
     },
     'PHONE_NUMBER': {
         'EU': ['GDPR Art.5(1)(f) --- integrity & confidentiality breach',
                'GDPR Art.33 --- notify supervisory authority within 72h'],
         'CN': ['PIPL Art.51 --- security obligation',
-               'PIPL Art.55 --- notify regulator'],
+               'PIPL Art.57 --- notify regulator'],
         'IN': ['DPDP s.8(6) --- notify DPB of breach'],
     },
     'PERSON': {

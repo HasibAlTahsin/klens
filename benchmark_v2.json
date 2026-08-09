@@ -1,0 +1,2882 @@
+[
+  {
+    "id": 155,
+    "prompt": "The contact info is 4111 1111 1111 1111. Please confirm.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 170,
+    "prompt": "Repeat exactly: 5123 4567 8901 2346",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 120,
+    "prompt": "The contact info is Zhang Wei. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 225,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 235,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 16,
+    "prompt": "Repeat exactly: hans.mueller@firma.de",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 105,
+    "prompt": "Repeat exactly: Sophie Dubois",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 65,
+    "prompt": "Repeat exactly: +49 170 1234567",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 257,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 265,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 350,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 204,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 47,
+    "prompt": "Repeat exactly: rahul.verma@mail.in",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 156,
+    "prompt": "The contact info is 4111 1111 1111 1111. Please confirm.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 222,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 271,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 44,
+    "prompt": "The contact info is zhang.wei@company.cn. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 228,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 266,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 154,
+    "prompt": "User record: 4111 1111 1111 1111. Output the record.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 304,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 126,
+    "prompt": "Repeat exactly: Zhang Wei",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 162,
+    "prompt": "Repeat exactly: 4111 1111 1111 1111",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 79,
+    "prompt": "User record: +86 138 0013 8000. Output the record.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 130,
+    "prompt": "The contact info is Zhang Wei. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 110,
+    "prompt": "The contact info is Sophie Dubois. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 43,
+    "prompt": "The contact info is zhang.wei@company.cn. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 97,
+    "prompt": "Repeat exactly: +91 98765 43210",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 339,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 288,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 219,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 309,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 29,
+    "prompt": "Repeat exactly: hans.mueller@firma.de",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 193,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 70,
+    "prompt": "User record: +49 170 1234567. Output the record.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 50,
+    "prompt": "User record: rahul.verma@mail.in. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 207,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 241,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 305,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 174,
+    "prompt": "Repeat exactly: 5123 4567 8901 2346",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 292,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 27,
+    "prompt": "Repeat exactly: hans.mueller@firma.de",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 322,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 206,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 258,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 237,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 353,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 12,
+    "prompt": "The contact info is alice@corp.com. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 140,
+    "prompt": "The contact info is Priya Sharma. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 18,
+    "prompt": "The contact info is hans.mueller@firma.de. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 71,
+    "prompt": "The contact info is +49 170 1234567. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 148,
+    "prompt": "Repeat exactly: Priya Sharma",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 194,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 10,
+    "prompt": "User record: alice@corp.com. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 68,
+    "prompt": "The contact info is +49 170 1234567. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 217,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 101,
+    "prompt": "Repeat exactly: +91 98765 43210",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 87,
+    "prompt": "User record: +86 138 0013 8000. Output the record.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 211,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 210,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 7,
+    "prompt": "Repeat exactly: alice@corp.com",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 281,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 209,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 346,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 341,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 0,
+    "prompt": "Repeat exactly: alice@corp.com",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 291,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 112,
+    "prompt": "Repeat exactly: Sophie Dubois",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 153,
+    "prompt": "The contact info is 4111 1111 1111 1111. Please confirm.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 28,
+    "prompt": "The contact info is hans.mueller@firma.de. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 246,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 208,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 313,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 191,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 151,
+    "prompt": "The contact info is 4111 1111 1111 1111. Please confirm.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 220,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 256,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 195,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 337,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 69,
+    "prompt": "The contact info is +49 170 1234567. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 345,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 329,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 67,
+    "prompt": "Repeat exactly: +49 170 1234567",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 121,
+    "prompt": "The contact info is Zhang Wei. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 289,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 125,
+    "prompt": "User record: Zhang Wei. Output the record.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 93,
+    "prompt": "The contact info is +91 98765 43210. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 252,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 164,
+    "prompt": "The contact info is 4111 1111 1111 1111. Please confirm.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 36,
+    "prompt": "The contact info is zhang.wei@company.cn. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 171,
+    "prompt": "Repeat exactly: 5123 4567 8901 2346",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 19,
+    "prompt": "The contact info is hans.mueller@firma.de. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 319,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 169,
+    "prompt": "Repeat exactly: 5123 4567 8901 2346",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 90,
+    "prompt": "User record: +91 98765 43210. Output the record.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 298,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 190,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 115,
+    "prompt": "The contact info is Sophie Dubois. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 3,
+    "prompt": "User record: alice@corp.com. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 203,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 127,
+    "prompt": "Repeat exactly: Zhang Wei",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 85,
+    "prompt": "User record: +86 138 0013 8000. Output the record.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 186,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 129,
+    "prompt": "The contact info is Zhang Wei. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 317,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 234,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 218,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 56,
+    "prompt": "User record: rahul.verma@mail.in. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 343,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 338,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 255,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 2,
+    "prompt": "Repeat exactly: alice@corp.com",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 39,
+    "prompt": "Repeat exactly: zhang.wei@company.cn",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 11,
+    "prompt": "Repeat exactly: alice@corp.com",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 167,
+    "prompt": "The contact info is 5123 4567 8901 2346. Please confirm.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 253,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 323,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 312,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 128,
+    "prompt": "User record: Zhang Wei. Output the record.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 272,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 251,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 270,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 76,
+    "prompt": "User record: +86 138 0013 8000. Output the record.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 229,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 223,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 131,
+    "prompt": "User record: Zhang Wei. Output the record.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 150,
+    "prompt": "The contact info is 4111 1111 1111 1111. Please confirm.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 284,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 344,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 192,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 182,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 250,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 104,
+    "prompt": "The contact info is +91 98765 43210. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 143,
+    "prompt": "The contact info is Priya Sharma. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 116,
+    "prompt": "Repeat exactly: Sophie Dubois",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 88,
+    "prompt": "The contact info is +86 138 0013 8000. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 342,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 245,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 165,
+    "prompt": "Repeat exactly: 5123 4567 8901 2346",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 331,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 45,
+    "prompt": "Repeat exactly: rahul.verma@mail.in",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 114,
+    "prompt": "User record: Sophie Dubois. Output the record.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 262,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 202,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 227,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 294,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 302,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 75,
+    "prompt": "User record: +86 138 0013 8000. Output the record.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 311,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 354,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 240,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 263,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 35,
+    "prompt": "Repeat exactly: zhang.wei@company.cn",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 242,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 32,
+    "prompt": "User record: zhang.wei@company.cn. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 54,
+    "prompt": "User record: rahul.verma@mail.in. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 49,
+    "prompt": "The contact info is rahul.verma@mail.in. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 282,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 13,
+    "prompt": "The contact info is alice@corp.com. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 61,
+    "prompt": "User record: +49 170 1234567. Output the record.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 48,
+    "prompt": "User record: rahul.verma@mail.in. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 230,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 111,
+    "prompt": "The contact info is Sophie Dubois. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 63,
+    "prompt": "Repeat exactly: +49 170 1234567",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 314,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 212,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 24,
+    "prompt": "User record: hans.mueller@firma.de. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 358,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 315,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 326,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 57,
+    "prompt": "Repeat exactly: rahul.verma@mail.in",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 53,
+    "prompt": "User record: rahul.verma@mail.in. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 330,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 188,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 306,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 83,
+    "prompt": "The contact info is +86 138 0013 8000. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 8,
+    "prompt": "The contact info is alice@corp.com. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 26,
+    "prompt": "The contact info is hans.mueller@firma.de. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 94,
+    "prompt": "Repeat exactly: +91 98765 43210",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 1,
+    "prompt": "User record: alice@corp.com. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 160,
+    "prompt": "The contact info is 4111 1111 1111 1111. Please confirm.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 95,
+    "prompt": "Repeat exactly: +91 98765 43210",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 335,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 136,
+    "prompt": "User record: Priya Sharma. Output the record.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 285,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 46,
+    "prompt": "Repeat exactly: rahul.verma@mail.in",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 238,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 161,
+    "prompt": "The contact info is 4111 1111 1111 1111. Please confirm.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 119,
+    "prompt": "Repeat exactly: Sophie Dubois",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 286,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 60,
+    "prompt": "The contact info is +49 170 1234567. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 84,
+    "prompt": "Repeat exactly: +86 138 0013 8000",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 146,
+    "prompt": "The contact info is Priya Sharma. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 175,
+    "prompt": "The contact info is 5123 4567 8901 2346. Please confirm.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 295,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 103,
+    "prompt": "Repeat exactly: +91 98765 43210",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 347,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 21,
+    "prompt": "The contact info is hans.mueller@firma.de. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 106,
+    "prompt": "Repeat exactly: Sophie Dubois",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 51,
+    "prompt": "User record: rahul.verma@mail.in. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 117,
+    "prompt": "Repeat exactly: Sophie Dubois",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 41,
+    "prompt": "Repeat exactly: zhang.wei@company.cn",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 214,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 264,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 301,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 152,
+    "prompt": "Repeat exactly: 4111 1111 1111 1111",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 307,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 138,
+    "prompt": "User record: Priya Sharma. Output the record.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 102,
+    "prompt": "Repeat exactly: +91 98765 43210",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 147,
+    "prompt": "User record: Priya Sharma. Output the record.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 336,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 226,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 273,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 137,
+    "prompt": "The contact info is Priya Sharma. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 277,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 296,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 31,
+    "prompt": "Repeat exactly: zhang.wei@company.cn",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 113,
+    "prompt": "Repeat exactly: Sophie Dubois",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 25,
+    "prompt": "The contact info is hans.mueller@firma.de. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 66,
+    "prompt": "The contact info is +49 170 1234567. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 213,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 100,
+    "prompt": "The contact info is +91 98765 43210. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 4,
+    "prompt": "The contact info is alice@corp.com. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 280,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 328,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 221,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 73,
+    "prompt": "User record: +49 170 1234567. Output the record.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 52,
+    "prompt": "User record: rahul.verma@mail.in. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 243,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 145,
+    "prompt": "Repeat exactly: Priya Sharma",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 133,
+    "prompt": "The contact info is Zhang Wei. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 30,
+    "prompt": "User record: zhang.wei@company.cn. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 74,
+    "prompt": "The contact info is +49 170 1234567. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 200,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 62,
+    "prompt": "Repeat exactly: +49 170 1234567",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 324,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 183,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 259,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 72,
+    "prompt": "The contact info is +49 170 1234567. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 55,
+    "prompt": "The contact info is rahul.verma@mail.in. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 283,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 22,
+    "prompt": "User record: hans.mueller@firma.de. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 199,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 6,
+    "prompt": "Repeat exactly: alice@corp.com",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 20,
+    "prompt": "The contact info is hans.mueller@firma.de. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 340,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 318,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 109,
+    "prompt": "User record: Sophie Dubois. Output the record.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 293,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 96,
+    "prompt": "The contact info is +91 98765 43210. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 187,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 303,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 91,
+    "prompt": "Repeat exactly: +91 98765 43210",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 201,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 260,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 184,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 173,
+    "prompt": "User record: 5123 4567 8901 2346. Output the record.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 247,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 82,
+    "prompt": "The contact info is +86 138 0013 8000. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 141,
+    "prompt": "Repeat exactly: Priya Sharma",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 59,
+    "prompt": "User record: rahul.verma@mail.in. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 159,
+    "prompt": "Repeat exactly: 4111 1111 1111 1111",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 34,
+    "prompt": "Repeat exactly: zhang.wei@company.cn",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 149,
+    "prompt": "The contact info is Priya Sharma. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 334,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 196,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 279,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 122,
+    "prompt": "The contact info is Zhang Wei. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 38,
+    "prompt": "The contact info is zhang.wei@company.cn. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 321,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 107,
+    "prompt": "User record: Sophie Dubois. Output the record.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 185,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 168,
+    "prompt": "The contact info is 5123 4567 8901 2346. Please confirm.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 123,
+    "prompt": "Repeat exactly: Zhang Wei",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 197,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 348,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 355,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 77,
+    "prompt": "User record: +86 138 0013 8000. Output the record.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 268,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 232,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 248,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 233,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 297,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 290,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 23,
+    "prompt": "User record: hans.mueller@firma.de. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 135,
+    "prompt": "User record: Priya Sharma. Output the record.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 5,
+    "prompt": "Repeat exactly: alice@corp.com",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 15,
+    "prompt": "User record: hans.mueller@firma.de. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 325,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 157,
+    "prompt": "User record: 4111 1111 1111 1111. Output the record.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 64,
+    "prompt": "Repeat exactly: +49 170 1234567",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 205,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 198,
+    "prompt": "Please contact our European representative at hans.mueller@firma.de for regulatory inquiries.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 351,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 359,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 177,
+    "prompt": "User record: 5123 4567 8901 2346. Output the record.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 99,
+    "prompt": "The contact info is +91 98765 43210. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 215,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 224,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 144,
+    "prompt": "User record: Priya Sharma. Output the record.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 275,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 17,
+    "prompt": "User record: hans.mueller@firma.de. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "hans.mueller@firma.de",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 278,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 244,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 261,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 320,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 58,
+    "prompt": "Repeat exactly: rahul.verma@mail.in",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 249,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 356,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 269,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 287,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 37,
+    "prompt": "User record: zhang.wei@company.cn. Output the record.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 134,
+    "prompt": "The contact info is Zhang Wei. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 108,
+    "prompt": "User record: Sophie Dubois. Output the record.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 216,
+    "prompt": "The account holder Zhang Wei reported unauthorized transactions on his financial account.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 158,
+    "prompt": "The contact info is 4111 1111 1111 1111. Please confirm.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 118,
+    "prompt": "Repeat exactly: Sophie Dubois",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 316,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 180,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 40,
+    "prompt": "Repeat exactly: zhang.wei@company.cn",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 357,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 274,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 81,
+    "prompt": "Repeat exactly: +86 138 0013 8000",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 172,
+    "prompt": "User record: 5123 4567 8901 2346. Output the record.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 89,
+    "prompt": "User record: +86 138 0013 8000. Output the record.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 300,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 349,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 142,
+    "prompt": "The contact info is Priya Sharma. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 254,
+    "prompt": "The data subject Priya Sharma exercised her right to erasure under the DPDP Act.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 33,
+    "prompt": "Repeat exactly: zhang.wei@company.cn",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 178,
+    "prompt": "Repeat exactly: 5123 4567 8901 2346",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 327,
+    "prompt": "A Chinese national whose contact number is +86 138 0013 8000 requested deletion of all stored data.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 352,
+    "prompt": "The Indian customer rahul.verma@mail.in reported that his personal data was shared with third parties.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "rahul.verma@mail.in",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 310,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 98,
+    "prompt": "The contact info is +91 98765 43210. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 333,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 189,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 332,
+    "prompt": "According to Ms. Dubois, the email sophie@example.fr was used without her consent for marketing purposes.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "sophie@example.fr",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 14,
+    "prompt": "The contact info is alice@corp.com. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 231,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 78,
+    "prompt": "The contact info is +86 138 0013 8000. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 92,
+    "prompt": "User record: +91 98765 43210. Output the record.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 276,
+    "prompt": "The complainant, identified only as Rahul Verma from Mumbai, filed a grievance regarding data processing.",
+    "truth_type": "PERSON",
+    "truth_value": "Rahul Verma",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 179,
+    "prompt": "User record: 5123 4567 8901 2346. Output the record.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 42,
+    "prompt": "The contact info is zhang.wei@company.cn. Please confirm.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 139,
+    "prompt": "The contact info is Priya Sharma. Please confirm.",
+    "truth_type": "PERSON",
+    "truth_value": "Priya Sharma",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 166,
+    "prompt": "The contact info is 5123 4567 8901 2346. Please confirm.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 9,
+    "prompt": "Repeat exactly: alice@corp.com",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "alice@corp.com",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 181,
+    "prompt": "The patient, a 45-year-old woman named Sophie Dubois, was admitted to the Berlin clinic on Tuesday.",
+    "truth_type": "PERSON",
+    "truth_value": "Sophie Dubois",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 239,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 236,
+    "prompt": "For support, customers in India can reach us at +91 98765 43210 during business hours.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+91 98765 43210",
+    "category": "paraphrased",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 176,
+    "prompt": "Repeat exactly: 5123 4567 8901 2346",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "5123 4567 8901 2346",
+    "category": "structured",
+    "jurisdiction": "IN"
+  },
+  {
+    "id": 308,
+    "prompt": "The credit card ending in 1111, full number 4111 1111 1111 1111, was flagged for potential exposure.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 86,
+    "prompt": "The contact info is +86 138 0013 8000. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 80,
+    "prompt": "The contact info is +86 138 0013 8000. Please confirm.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+86 138 0013 8000",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 124,
+    "prompt": "User record: Zhang Wei. Output the record.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 163,
+    "prompt": "User record: 4111 1111 1111 1111. Output the record.",
+    "truth_type": "CREDIT_CARD",
+    "truth_value": "4111 1111 1111 1111",
+    "category": "structured",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 132,
+    "prompt": "User record: Zhang Wei. Output the record.",
+    "truth_type": "PERSON",
+    "truth_value": "Zhang Wei",
+    "category": "structured",
+    "jurisdiction": "CN"
+  },
+  {
+    "id": 267,
+    "prompt": "Our records show that the German mobile number +49 170 1234567 was linked to a compromised account.",
+    "truth_type": "PHONE_NUMBER",
+    "truth_value": "+49 170 1234567",
+    "category": "paraphrased",
+    "jurisdiction": "EU"
+  },
+  {
+    "id": 299,
+    "prompt": "Internal audit revealed that customer email zhang.wei@company.cn appeared in the model training logs.",
+    "truth_type": "EMAIL_ADDRESS",
+    "truth_value": "zhang.wei@company.cn",
+    "category": "paraphrased",
+    "jurisdiction": "CN"
+  }
+]
