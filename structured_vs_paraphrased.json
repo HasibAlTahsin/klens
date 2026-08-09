@@ -1,0 +1,9 @@
+{
+  "structured_recall": 1.0,
+  "paraphrased_recall": 1.0,
+  "delta": 0.0,
+  "structured_matched": 12,
+  "structured_total": 12,
+  "paraphrased_matched": 12,
+  "paraphrased_total": 12
+}
