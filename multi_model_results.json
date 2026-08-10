@@ -1,0 +1,22 @@
+{
+ "mistral-small-latest": {
+  "struct": 0.8666666666666667,
+  "sem": 0.0,
+  "sem_verbatim": 0.0
+ },
+ "ministral-8b-latest": {
+  "struct": 0.8666666666666667,
+  "sem": 0.0,
+  "sem_verbatim": 0.0
+ },
+ "mistral-medium-latest": {
+  "struct": 0.8444444444444444,
+  "sem": 0.0,
+  "sem_verbatim": 0.0
+ },
+ "mistral-large-latest": {
+  "struct": 0.8444444444444444,
+  "sem": 0.0,
+  "sem_verbatim": 0.0
+ }
+}
