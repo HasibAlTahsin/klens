@@ -7,3 +7,7 @@ accuracy_results.json
 accuracy_both.json
 __pycache__/
 *.pyc
+*.swp
+check_iouring
+iouring_sender
+regular_sender
